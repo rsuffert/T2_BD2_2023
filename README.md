@@ -1,4 +1,4 @@
-# Trabalho 2 (Final) de Banco de Dados II
+# Databases II Final Project
 
 This project has obtained from the Open Data Portal of the Brazilian Federal Government a CSV dataset which contains information on a series of air accidents and incidents occurred within the Brazilian territory and reported to the Brazilian aeronautical authorities &mdash; that is, the National Civil Aviation Agency (ANAC) and the Brazilian Air Force (FAB). The original dataset (file `datasets/V_OCORRENCIA_AMPLA.csv`) is available [here](https://dados.gov.br/dados/conjuntos-dados/ocorrncias-aeronuticas), and its data dictionary, as well as its official description, can be accessed on ANAC's official website through [this link](https://www.anac.gov.br/acesso-a-informacao/dados-abertos/areas-de-atuacao/seguranca-operacional/ocorrencias-aeronauticas/metadados-do-conjunto-de-dados-ocorrencias-aeronauticas).
 
