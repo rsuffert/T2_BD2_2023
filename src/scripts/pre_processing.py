@@ -25,7 +25,7 @@ df_treated = df_treated.applymap(replace_special_char)
 df_treated = df_treated.query("Operacao in ('Voo Regular', 'Taxi Aereo')")
 
 # considering empty strings as null cells
-def_treated = df_treated.replace("", np.nan)
+df_treated = df_treated.replace("", np.nan)
 
 # 4. Visualizing the data (summary of the dataset after transforming the data)
 print(df_treated['Operacao'].value_counts())
